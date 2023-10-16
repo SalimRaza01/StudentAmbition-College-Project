@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951212420656",
+    "project_id": "studentambition-ab60c",
+    "storage_bucket": "studentambition-ab60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951212420656:android:a3c75fef767312315607f5",
+        "android_client_info": {
+          "package_name": "com.studentambition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951212420656-2ho57j761ke7pgi1eblksjo9ivnvqakp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACvR00kSFe1XkTKKytwfM4lIz39g33Q68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951212420656-2ho57j761ke7pgi1eblksjo9ivnvqakp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
