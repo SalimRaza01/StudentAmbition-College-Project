@@ -8,7 +8,7 @@ import {
 import LinearGradient from 'react-native-linear-gradient';
 
 const handleLinkPress = (url) => {
-    Linking.openURL(url);
+    Linking.openURL(url) 
     };
 
 export default function AboutPage(props) {
